@@ -1,0 +1,2 @@
+# codingbat-whataboutpython
+I've found the CodingBat (https://codingbat.com) challenges really helpful in learning programming logic and working with the Python language. Whilst working through some challenges with a friend (he's learning Java) we found that there are more Java challenges than Python. I thought it'd be a fun project to go through the Java challenges and write/solve them in Python. Eventually I'd like to have both completed and non-completed jupyter-notebooks with all the Java challenges translated to Python.
